@@ -2,8 +2,6 @@
 
 <div style="text-align: center;">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jfwid1aNUpTlVVuLSawI1n7LLEYTweAP?usp=sharing)
-
 [Paper](https://drive.google.com/file/d/1W_4d3xbCAv5mC64YAtd9-UBDYkdMX58K/view?usp=sharing)
 
 </div>
